@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+cross_sell_system/__init__.py
+cross_sell_system/assets.py
+cross_sell_system/definitions.py
+cross_sell_system.egg-info/PKG-INFO
+cross_sell_system.egg-info/SOURCES.txt
+cross_sell_system.egg-info/dependency_links.txt
+cross_sell_system.egg-info/requires.txt
+cross_sell_system.egg-info/top_level.txt

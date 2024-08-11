@@ -2,12 +2,12 @@ duckdb==1.0.0
 scikit-learn==1.5.1
 dagster==1.8.0
 mlflow==2.15.1
-fastapi==0.112.2
+fastapi==0.112.0
 uvicorn==0.30.5
 pytest==8.3.2
 jupyter==1.0.0
 pandas==2.2.2
 polars==1.4.1
 altair==5.4.0
-matplotlib
-seaborn
+matplotlib==3.9.1.post1
+seaborn==0.13.2
